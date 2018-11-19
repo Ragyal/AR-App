@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="ModelMarker" size="1.000000 1.172414" />
-    <ImageTarget name="VideoMarker" size="1.000000 1.172414" />
-    <ImageTarget name="ModelTarget" size="4.000000 5.176471" />
-    <ImageTarget name="VideoTarget" size="2.000000 1.666667" />
-    <ImageTarget name="BUIC_logo2012_RGB" size="2.000000 0.904490" />
-    <ImageTarget name="BurjiKhalifa" size="0.500000 0.666667" />
+    <ImageTarget name="VideoMarker" size="1.000000 1.171724" />
+    <ImageTarget name="ModelMarker" size="1.000000 1.171724" />
   </Tracking>
 </QCARConfig>
